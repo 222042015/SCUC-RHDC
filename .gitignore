@@ -1,0 +1,8 @@
+*.lp
+*.ilp
+*.log
+*.txt
+./logs
+*.json
+/results
+/logs
