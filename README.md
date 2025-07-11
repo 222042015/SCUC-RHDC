@@ -7,6 +7,11 @@ To reproduce the results presented in the manuscript, execute
 bash scripts.sh
 ```
 
+To run with a single instance, execute
+```
+julia --threads=1 test_cb.jl -dataset $instance -nInt 6 -nCont 6 -stepsize 6 -threads 1
+```
+
 The code for visualizing the generated results is located in the Jupyter Notebook: `load_result.ipynb`.
 
 This work builds upon the "UnitCommitment.jl" package.
