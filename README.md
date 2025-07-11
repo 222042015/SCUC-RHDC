@@ -1,6 +1,6 @@
 # Relax-and-Cut for Temporal SCUC Decomposition
 
-This repository contains the implementation for the manuscript titled: "Rolling-Horizon Optimization with Dynamic Cuts for Large-Scale Security-Constrained Unit Commitment".
+This repository contains the implementation for the manuscript titled: "Relax-and-Cut for Temporal SCUC Decomposition".
 
 To reproduce the results presented in the manuscript, execute
 ```bash
